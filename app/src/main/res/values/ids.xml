@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnCancel" type="id" />
+    <item name="etName" type="id" />
+    <item name="etDesc" type="id" />
+    <item name="etTime" type="id" />
+</resources>
